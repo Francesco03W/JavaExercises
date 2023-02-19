@@ -1,7 +1,6 @@
 // 19/02/2023
 //scrivi un programma in java per calcolare l'area di un poligono
 //area= (n*(s^2))/4*(tan(pi/n))  n=numero di lati, s lunghezza di un lato
-
 import java.util.Scanner;
 import java.lang.Math; //libreria matematica
 
